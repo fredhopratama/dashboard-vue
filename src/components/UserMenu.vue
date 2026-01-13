@@ -14,7 +14,7 @@ const colors = ['red', 'orange', 'amber', 'yellow', 'lime', 'green', 'emerald', 
 const neutrals = ['slate', 'gray', 'zinc', 'neutral', 'stone']
 
 const user = ref({
-  name: 'Benjamin Canac',
+  name: 'Fredho Pratama',
   avatar: {
     src: 'https://github.com/fredhopratama.png',
     alt: 'Fredho Pratama'
