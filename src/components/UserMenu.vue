@@ -16,8 +16,8 @@ const neutrals = ['slate', 'gray', 'zinc', 'neutral', 'stone']
 const user = ref({
   name: 'Benjamin Canac',
   avatar: {
-    src: 'https://github.com/benjamincanac.png',
-    alt: 'Benjamin Canac'
+    src: 'https://github.com/fredhopratama.png',
+    alt: 'Fredho Pratama'
   }
 })
 
