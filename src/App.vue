@@ -8,7 +8,6 @@ const toast = useToast()
 const route = useRoute()
 
 const open = ref(false)
-
 const links = [[{
   label: 'Home',
   icon: 'i-lucide-house',
