@@ -23,10 +23,10 @@ and basic dashboard architecture for internal tools.
 
 ## Development
 
- ```bash
+```bash
 pnpm install
 pnpm dev
-
+```
 
 ## Purpose
 
