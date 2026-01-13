@@ -21,6 +21,13 @@ and basic dashboard architecture for internal tools.
 - Nuxt UI
 
 
+## Development
+
+ ```bash
+pnpm install
+pnpm dev
+
+
 ## Purpose
 
 This project is part of my learning journey in frontend development and dashboard-oriented UI architecture.
@@ -29,9 +36,3 @@ This project is part of my learning journey in frontend development and dashboar
 ## Acknowledgement
 
 This project was initially bootstrapped using the Nuxt UI Dashboard Vue template: https://github.com/nuxt-ui-templates/dashboard-vue. The template was then customized and extended for learning and demonstration purposes.
-
-## Development
-
- ```bash
-pnpm install
-pnpm dev
